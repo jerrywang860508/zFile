@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"C:/Users/jerry/Desktop/centOS7MariadbRedis_Install","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}},"virtualbox":{"/home/vagrant":{"disabled":false,"guestpath":"/home/vagrant","hostpath":"C:/Users/jerry/Desktop/centOS7MariadbRedis_Install","__vagrantfile":true}}}
